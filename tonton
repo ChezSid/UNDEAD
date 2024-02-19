@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="tonton | (https://watch.tonton.com.my/)"
+
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=0:377:STATIC:SERVICE_LOGO_default:png&h=40&appID=TONTON" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3 HD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/d0059405-fa05-4e04-8d18-71ce14b687e8/3.m3u8
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3 FHD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/d0059405-fa05-4e04-8d18-71ce14b687e8/4.m3u8
+
+#EXTINF:-1 tvg-id="Didik TV KPM" tvg-name="Didik TV KPM" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DIDIK TV KPM HD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/9e5d5294-89d8-4b55-a970-21ef43b1aff6/3.m3u8
+#EXTINF:-1 tvg-id="Didik TV KPM" tvg-name="Didik TV KPM" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DIDIK TV KPM FHD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/9e5d5294-89d8-4b55-a970-21ef43b1aff6/4.m3u8
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV HD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/07f54c95-001f-4872-8822-5daecc7b984b/3.m3u8
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV FHD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/07f54c95-001f-4872-8822-5daecc7b984b/4.m3u8
+
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV9 HD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/07f54c95-001f-4872-8822-5daecc7b984b/3.m3u8
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV9 FHD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/c3e6b1cd-0f4c-4259-86d9-cfe90a1d3a9b/4.m3u8
+
+#EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DRAMA SANGAT HD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/c3e6b1cd-0f4c-4259-86d9-cfe90a1d3a9b/3.m3u8
+#EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DRAMA SANGAT FHD
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/c3e6b1cd-0f4c-4259-86d9-cfe90a1d3a9b/4.m3u8
+
+UPDATE ON 19/02/2024 by https://github.com/ChezSid

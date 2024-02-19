@@ -1,36 +1,34 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="tonton | (https://watch.tonton.com.my/)"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="tontonᵗᵒⁿᵗᵒⁿ | (https://watch.tonton.com.my/)"
 
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=0:377:STATIC:SERVICE_LOGO_default:png&h=40&appID=TONTON" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3 
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
-
 
 #EXTINF:-1 tvg-id="Didik TV KPM" tvg-name="Didik TV KPM" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DIDIK TV KPM
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV HD
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV ᵗᵒⁿᵗᵒⁿ
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV FHD
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV9
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DRAMA SANGAT
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
 

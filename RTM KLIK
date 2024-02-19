@@ -1,0 +1,148 @@
+#EXTM3U x-tvg-url=https://github.com/AqFad2811/epg/blob/main/rtmklik.xml billed-msg="RTM KLIK LIVE TV/RADIO | (https://rtmklik.rtm.gov.my/)"
+
+
+##### LIVE TV ######
+
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/tv1.jpg", TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/tv2.jpg", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/okey.jpg", TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-name="Berita RTM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/berita-rtm.png", BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-name="Sukan RTM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/sukanrtmbaharu.jpg", SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/tv6.jpg", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/dewanrakyatbaharu.jpg", DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?id=7
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-name="Dewan Negara" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/PDN_Trans.png", DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b1096000_slENG.m3u8?id=8
+
+#EXTINF:-1 tvg-id="Bintang RTM" tvg-name="Bintang RTM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/brtm2024.jpg", BINTANG RTM
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
+
+
+##### NATIONAL RADIO ######
+
+
+#EXTINF:-1 tvg-id="Nasional FM" tvg-name="Nasional FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg", NATIONAL FM
+https://22273.live.streamtheworld.com/NASIONAL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=d3582763-5db7-449e-ab1a-91a4948b0201
+
+#EXTINF:-1 tvg-id="Traxx FM" tvg-name="Traxx FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg", TraXX FM
+https://23733.live.streamtheworld.com/TRAXX_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=d7397e38-badb-49dd-a0ea-7330d02dbade
+
+#EXTINF:-1 tvg-id="AI FM" tvg-name="AI FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg", AI FM
+https://23743.live.streamtheworld.com/AI_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=183bff44-26c8-49a2-d060-3819728f71d5
+
+#EXTINF:-1 tvg-id="Minnal FM" tvg-name="Minnal FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg", MINNAL FM
+https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=0a32be34-a970-4a4a-f047-f16fdd4084b2
+
+#EXTINF:-1 tvg-id="Radio Klasik" tvg-name="Radio Klasik" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg", RADIO KLASIK
+https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=0a14f84d-d31e-4315-d28c-cbe756538da4
+
+#EXTINF:-1 tvg-id="Asyik FM" tvg-name="Asyik FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg", ASYIK FM
+https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=2a6e8f96-a3da-456c-af58-d155b8ed1344
+
+
+##### STATE RADIO #####
+
+
+#EXTINF:-1 tvg-id="KL FM" tvg-name="KL FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kl.cf9e2e96.jpg", KL FM
+https://22273.live.streamtheworld.com/KL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=0a70232d-a94b-4f4c-ea45-00b979cfdd73
+
+#EXTINF:-1 tvg-id="Selangor FM" tvg-name="Selangor FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-selangor.c3b66db5.jpg", SELANGOR FM
+https://23733.live.streamtheworld.com/SELANGOR_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=4e981124-5b58-45de-af8d-ca98a763556d
+
+#EXTINF:-1 tvg-id=Sabah FM"" tvg-name="Sabah FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg", SABAHV FM
+https://23693.live.streamtheworld.com/SABAH_VFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7d168bfd-28cf-4e70-a42b-7e5527f03bb4
+
+#EXTINF:-1 tvg-id="Sarawak FM" tvg-name="Sarawak FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg", SARAWAK FM
+https://23733.live.streamtheworld.com/SARAWAK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=e9e7c083-b3a3-4afa-bbe2-08a1621d4d83
+
+#EXTINF:-1 tvg-id="Labuan FM" tvg-name="Labuan FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-labuan.859e980b.jpg", LABUAN FM
+https://22243.live.streamtheworld.com/LABUAN_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7a062519-2d21-49a4-d426-7f7f5253afe8
+
+#EXTINF:-1 tvg-id="Kedah FM" tvg-name="Kedah FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kedah.ac6ad597.jpg", KEDAH FM
+https://22243.live.streamtheworld.com/KEDAH_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7f77e465-c3a2-4d9d-a06f-ced0edc5d820
+
+#EXTINF:-1 tvg-id="Kelantan FM" tvg-name="Kelantan FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kelantan.8be90a2d.jpg", KELANTAN FM
+https://25013.live.streamtheworld.com/KELANTAN_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=08f3fabe-a76f-43c5-ffe7-30e2cdd70d76
+
+#EXTINF:-1 tvg-id="Terengganu FM" tvg-name="Terengganu FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-terengganu.eabe5ef2.jpg", TERENGGANU FM
+https://23743.live.streamtheworld.com/TERENGGANU_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=79b1fc1d-9da2-44b2-c86a-fef63533401f
+
+#EXTINF:-1 tvg-id="Pahang FM" tvg-name="Pahang FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-pahang.9e046615.jpg", PAHANG FM
+https://23733.live.streamtheworld.com/PAHANG_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=8ff14978-5358-444c-ea41-398da4e17327
+
+#EXTINF:-1 tvg-id="Johor FM" tvg-name="Johor FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-johor.38314123.jpg", JOHOR FM
+https://14003.live.streamtheworld.com/JOHOR_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=0feb4be4-81f8-42c9-bd2a-ce9e63715ecb
+
+#EXTINF:-1 tvg-id="Negeri FM" tvg-name="Negeri FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-negeri-sembilan.d75a96b1.jpg", NEGERI FM
+https://22273.live.streamtheworld.com/NEGERI_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7894c848-afb5-4bb4-aa53-687dc830688c
+
+#EXTINF:-1 tvg-id="Perak FM" tvg-name="Perak FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perak.5157e833.jpg", PERAK FM
+https://23733.live.streamtheworld.com/PERAK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=21c9b092-cf8a-4dde-ee4f-77436584b1c6
+
+#EXTINF:-1 tvg-id="Mutiara FM" tvg-name="Mutiara FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-mutiara.2d02099e.jpg", MUTIARA FM
+https://23693.live.streamtheworld.com/MUTIARA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=24bacb33-a448-41ea-c4e8-486c8a192673
+
+#EXTINF:-1 tvg-id="Perlis FM" tvg-name="Perlis FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perlis.c5ca4535.jpg", PERLIS FM
+https://23743.live.streamtheworld.com/PERLIS_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=bbc2a8f1-3205-42b3-eead-d0a09862e505
+
+#EXTINF:-1 tvg-id="Melaka FM" tvg-name="Melaka FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-melaka.ddf4e356.jpg", MELAKA FM
+https://23733.live.streamtheworld.com/MELAKA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=1207a94f-369e-4a49-c0f0-98e4dd39329f
+
+#EXTINF:-1 tvg-id="Sabah FM" tvg-name="Sabah FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg", SABAH FM
+https://22273.live.streamtheworld.com/SABAH_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=8cd0af91-be0e-4a1b-ca47-3a40d94b0197
+
+
+##### LOCAL RADIO #####
+
+
+#EXTINF:-1 tvg-id="Wai FM" tvg-name="Wai FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg", WAI FM IBAN
+https://22273.live.streamtheworld.com/WAI_FM_IBANAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=5bd359f9-ce4f-4427-8e8e-3b927c1ed715
+
+#EXTINF:-1 tvg-id="Wai FM" tvg-name="Wai FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg", WAI FM
+https://22273.live.streamtheworld.com/WAI_FM_BKAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=4e4fae70-e5e9-4143-95cb-ac25baacdc61
+
+#EXTINF:-1 tvg-id="Red FM" tvg-name="Red FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-red.62159cea.jpg", RED FM
+https://23733.live.streamtheworld.com/RED_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=b2798fbb-69f7-4261-ba85-7b22a4788878
+
+#EXTINF:-1 tvg-id="Langkawi FM" tvg-name="Langkawi FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-langkawi.79b41be3.jpg", LANGKAWI FM
+https://23693.live.streamtheworld.com/LANGKAWI_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=57025e4d-7743-49cf-ade7-ce261f71a948
+
+#EXTINF:-1 tvg-id="Limbang FM" tvg-name="Limbang FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-limbang.09e4dfee.jpg", LIMBANG FM
+https://23693.live.streamtheworld.com/LIMBANGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=502bd013-99bd-438f-986b-7de292d10289
+
+#EXTINF:-1 tvg-id="Miri FM" tvg-name="Miri FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-miri.bd1a0e5b.jpg", MIRI FM
+https://23693.live.streamtheworld.com/MIRI_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=1d88e8b4-4eb0-4700-f810-a394a822a376
+
+#EXTINF:-1 tvg-id="Sri Aman FM" tvg-name="Sri Aman FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sri-aman.bdb0ad99.jpg", SRI AMAN FM
+https://23693.live.streamtheworld.com/SRIAMAN_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7e564f63-d5c9-4f50-ffda-fff91ce54b73
+
+#EXTINF:-1 tvg-id="Bintulu FM" tvg-name="Bintulu FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-bintulu.e168e057.jpg", BINTULU FM
+https://23733.live.streamtheworld.com/BINTULU_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=e499c642-d3c7-4ce0-cce0-7c58311ebd3f
+
+#EXTINF:-1 tvg-id="Sibu FM" tvg-name="Sibu FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sibu.a8d8e039.jpg", SIBU FM
+https://23733.live.streamtheworld.com/SIBU_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=49d86952-d048-4c8a-feae-58b8319034c9
+
+#EXTINF:-1 tvg-id="Sandakan FM" tvg-name="Sandakan FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sandakan.fb7151f6.jpg", SANDAKAN FM
+https://22273.live.streamtheworld.com/SANDAKAN_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=62f0a238-833c-4c16-f8d1-8a2ceba2a2c3
+
+#EXTINF:-1 tvg-id="Tawau FM" tvg-name="Tawau FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-tawau.eca8d8cb.jpg", TAWAU FM
+https://23693.live.streamtheworld.com/TAWAU_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=2ec98cd0-f070-4bb7-b821-d41ebe2ffc5f
+
+#EXTINF:-1 tvg-id="Keningau FM" tvg-name="Keningau FM" group-logo="https://www.rtm.gov.my/asset/IconTv/rtmkliklogopetak.jpg" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-keningau.84553559.jpg", KENINGAU
+https://23733.live.streamtheworld.com/KENINGAU_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=d2246934-9f6f-4557-c558-ace50a3b61b8
+
+UPDATE ON 19/02/2024 by https://github.com/ChezSid

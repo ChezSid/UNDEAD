@@ -17,23 +17,20 @@ https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
-#EXTINF:-1 tvg-id=AstroAEC" tvg-name="" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/948bafbe79e1483ca678e88b9e11dff9/version/0/width/315/height/177/quality/80", ASTRO AEC b
+#EXTINF:-1 tvg-id="AstroAEC" group-title="SOOKA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC (HD) (Sooka)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC1
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwODc1NzI2MywiaWF0IjoxNzA4MTUzMjYzfQ.zN5RLQ91ljwoFXsxUeHeBNmfG5ik4xxs_sS2VdrXzw0"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQm1ZV1kyTVRndFpHWm1OaTAwTlRnMExXSmpOR010WlRsaE9EaGlZbUl5WWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDkwMTg3MywiaWF0IjoxNzAwMjk3ODczfQ.47O5mRVNfAt2fpJiK0VdSCwWSlDmDWAOiq-jnjw6168"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/aec/
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",Astro AEC (Sookaggg)
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC S
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
-https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
-
-#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC as
+#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC astro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6fKn4EJ/Y7qabQxl2vQPmg", "kid":"ekpB3aNZlA5sjC/xIj13EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd

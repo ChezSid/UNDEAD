@@ -1,4 +1,4 @@
-EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" max-conn="1" refresh="24" billed-msg="SOOKA | (https://sooka.my/en/)"
+ EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="SOOKA | (https://sooka.my/en/)"
 
 
 
@@ -17,8 +17,8 @@ https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
 #EXTINF:-1 tvg-id=AstroAEC" tvg-name="" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/948bafbe79e1483ca678e88b9e11dff9/version/0/width/315/height/177/quality/80", ASTRO AEC
 https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 

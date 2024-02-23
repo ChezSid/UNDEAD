@@ -105,6 +105,9 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CinemaWorld
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://qnet.com.vn/data/banners/hxa1379060076.png", CinemaWorld HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 ###DAILY UPDATED/TESTING
 

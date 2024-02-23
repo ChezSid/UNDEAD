@@ -147,19 +147,19 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF:-1 tvg-id="131.astro" tvg-name="Filem Mantap" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/630b643fb6cf4ceca08c9d9a97c2af89/version/0/width/315/height/177/quality/80", FILEM MANTAP
+#EXTINF:-1 tvg-id="131.astro" tvg-name="Filem Mantap" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sooka_Filem_Mantap.png/120px-Sooka_Filem_Mantap.png", FILEM MANTAP
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="132.astro" tvg-name="Drama Hebat" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0b7ee488e85f40389398c3a9f60a2327/version/0/width/315/height/177/quality/80", DRAMA HEBAT
+#EXTINF:-1 tvg-id="132.astro" tvg-name="Drama Hebat" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/250px-Sooka_Drama_Hebat.png", DRAMA HEBAT
 https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="133.astro" tvg-name="Drama Hotpot" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0840a1e4e5474ab2bd8ed2e78b62a3cc/version/0/width/315/height/177/quality/80", DRAMA HOTPOT
+#EXTINF:-1 tvg-id="133.astro" tvg-name="Drama Hotpot" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sooka_Drama_Hotpot.png/250px-Sooka_Drama_Hotpot.png", DRAMA HOTPOT
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="134.astro" tvg-name="Lawak Sentral" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bf0217c390d64933a8322599c7fc8cdb/version/0/width/315/height/177/quality/80", LAWAK SENTRAL
+#EXTINF:-1 tvg-id="134.astro" tvg-name="Lawak Sentral" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/250px-Sooka_Lawak_Sentral.png", LAWAK SENTRAL
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="135.astro" tvg-name="Travel&Taste" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af0713d19b08477fb34c4bca7806f15b/version/0/width/315/height/177/quality/80", TRAVEL & TASTE
+#EXTINF:-1 tvg-id="135.astro" tvg-name="Travel&Taste" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sooka_Travel_%26_Taste.png/250px-Sooka_Travel_%26_Taste.png", TRAVEL & TASTE
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="6.astro" tvg-name="TAYO+" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80",TAYO+

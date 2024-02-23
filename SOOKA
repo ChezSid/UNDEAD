@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="SOOKA | (https://sooka.my/en/)"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" billed-msg="SOOKA | (https://sooka.my/en/)"
 
 
 
@@ -142,46 +142,46 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF:-1 group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/630b643fb6cf4ceca08c9d9a97c2af89/version/0/width/315/height/177/quality/80", FILEM MANTAP
+#EXTINF:-1 tvg-id="131.astro" tvg-name="Filem Mantap" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/630b643fb6cf4ceca08c9d9a97c2af89/version/0/width/315/height/177/quality/80", FILEM MANTAP
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0b7ee488e85f40389398c3a9f60a2327/version/0/width/315/height/177/quality/80", DRAMA HEBAT
+#EXTINF:-1 tvg-id="132.astro" tvg-name="Drama Hebat" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0b7ee488e85f40389398c3a9f60a2327/version/0/width/315/height/177/quality/80", DRAMA HEBAT
 https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0840a1e4e5474ab2bd8ed2e78b62a3cc/version/0/width/315/height/177/quality/80", DRAMA HOTPOT
+#EXTINF:-1 tvg-id="133.astro" tvg-name="Drama Hotpot" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0840a1e4e5474ab2bd8ed2e78b62a3cc/version/0/width/315/height/177/quality/80", DRAMA HOTPOT
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bf0217c390d64933a8322599c7fc8cdb/version/0/width/315/height/177/quality/80", LAWAK SENTRAL
+#EXTINF:-1 tvg-id="134.astro" tvg-name="Lawak Sentral" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bf0217c390d64933a8322599c7fc8cdb/version/0/width/315/height/177/quality/80", LAWAK SENTRAL
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af0713d19b08477fb34c4bca7806f15b/version/0/width/315/height/177/quality/80", TRAVEL & TASTE
+#EXTINF:-1 tvg-id="135.astro" tvg-name="Travel&Taste" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af0713d19b08477fb34c4bca7806f15b/version/0/width/315/height/177/quality/80", TRAVEL & TASTE
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80",TAYO+
+#EXTINF:-1 tvg-id="6.astro" tvg-name="TAYO+" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80",TAYO+
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/574e45f95d5d4a288aad6e711ace25b6/version/0/width/315/height/177/quality/80", K-POPCORN
+#EXTINF:-1 tvg-id="1.astro" tvg-name="K-POPCORN" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/574e45f95d5d4a288aad6e711ace25b6/version/0/width/315/height/177/quality/80", K-POPCORN
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bbeffd348eab475f8e6758b84534e6e3/version/0/width/315/height/177/quality/80",GUSTO TV
+#EXTINF:-1 tvg-id="9.astro" tvg-name="Gusto TV" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bbeffd348eab475f8e6758b84534e6e3/version/0/width/315/height/177/quality/80",GUSTO TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png", INFAMOUS TV
+#EXTINF:-1 tvg-id="8.astro" tvg-name="Infamous TV" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/718984734b9a40688ab3fde72f27e7ee/version/0", INFAMOUS TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ccdd07c58dcf4ae6be79b41e8a35c111/version/0/width/315/height/177/quality/80", TASTEMADE
+#EXTINF:-1 tvg-id="12.astro" tvg-name="Tastemade" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ccdd07c58dcf4ae6be79b41e8a35c111/version/0/width/315/height/177/quality/80", TASTEMADE
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e171e4404e5344c8864a8f1079301ec3/version/0/width/315/height/177/quality/80", EDGEsport
+#EXTINF:-1 tvg-id="7.astro" tvg-name="EDGEsport" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e171e4404e5344c8864a8f1079301ec3/version/0/width/315/height/177/quality/80", EDGEsport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00545-edgenetworks-edgesport-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/66847680a99c4be9af34f94102e6e416/version/0/width/315/height/177/quality/80", MTRSPT1
+#EXTINF:-1 tvg-id="3.astro" tvg-name="MTRSPT1" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/66847680a99c4be9af34f94102e6e416/version/0/width/315/height/177/quality/80", MTRSPT1
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/49ff127ab3834c32b241575548e4c4a9/version/0/width/315/height/177/quality/80", YRF MUSIC
+#EXTINF:-1 tvg-id="11.astro" tvg-name="YRF music" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/49ff127ab3834c32b241575548e4c4a9/version/0/width/315/height/177/quality/80", YRF MUSIC
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6645e2e786014bc482c4835a8f97e1bd/version/0/width/315/height/177/quality/80", BOLLYWOOD PRIME
+#EXTINF:-1 tvg-id="10.astro" tvg-name="Bollywood Prime" group-title="SOOKA" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6645e2e786014bc482c4835a8f97e1bd/version/0/width/315/height/177/quality/80", BOLLYWOOD PRIME
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-sooka/index.mpd
 
 

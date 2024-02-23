@@ -77,11 +77,6 @@ https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZQOYNV+jPK7TAcU+cVI7uQ", "kid":"TcVubuYkS7aTBl7bfbywCQ" } ], "type":"temporary" }
 https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276404050%27&EntityType=%27Item%27&EntityId=%27195860%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", CINEMAWORLD U
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227568/3221227568.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xAj9QpGpIoBJphacrERQt7NSjYmV9M47Zji4YUq1yYVpt5J0dsgfU28LWZM15p3G2%3A20221124103730%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103730%2Curn:Huawei:liveTV:SP000004582705%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoyJc-CUqlKlyokUt9dqC8_UCjYJOJHy94lb97q7s5o5w9Hbi-0brSvjBDau0jUZoBFeqtr1vhGaDCt0aZNVzCHGYQpt8gv2edx9ScEFV0pyqVi33L1GhHXZXsdvyrb6x46Ub4Mj60vPbygcIWQKmIc08UPE_SPHdcKoW9WkMVu1rWqltRFsXtIO5fRs2A_KLo1nZPLvKfwCtkcsxM5wJwRqMZKdrjH-cfvsnzYP6khCQPQAAAA&tenantId=6003
-
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273350983%27&EntityType=%27Item%27&EntityId=%27229215%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
@@ -109,8 +104,14 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaworld.png",Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CinemaWorld
+udp://@225.1.1.142:30120
+##https://mangga-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="cinemaworld.my" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",Cinema World
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
 ###DAILY UPDATED/TESTING
@@ -128,26 +129,14 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'" ,meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'", meWATCH LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-###
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/24/EMIQj6.png",oktolidays
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
-
-#EXTINF:-1 group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/19/EMx0OD.png",meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/19/EMxB86.png",meWATCH LIVE 2
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639647%27&EntityType=%27Item%27&EntityId=%27229212%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+
+
 
 
 

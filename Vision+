@@ -317,7 +317,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="FOX News - [Channel 335].id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/fox-1.png", FOX News
+#EXTINF:-1 tvg-id="FOX News - [Channel 335].id" group-title="NEWS" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/fox-1.png", FOX News
 https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -653,7 +653,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV" tvg-logo="https://www.visionplus.id/images/repository/940/49940-SNAPSHOT-m.png", tvMu
+#EXTINF:-1 tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/940/49940-SNAPSHOT-m.png", tvMu
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -677,13 +677,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-id="AlQuran Kareem" tvg-name="Al Quran Al Kareem" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png", AlQuran Kareem
+#EXTINF:-1 tvg-id="AlQuran Kareem" tvg-name="Al Quran Al Kareem" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png", AlQuran Kareem
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="EWTN.id" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-m.png", EWTN
+#EXTINF:-1 tvg-id="EWTN.id" group-title="RELIGION" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-m.png", EWTN
 https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 

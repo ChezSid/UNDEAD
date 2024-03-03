@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
 
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png", INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png", INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 

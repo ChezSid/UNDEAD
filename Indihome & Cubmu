@@ -2,38 +2,31 @@
 
 
 ### LOCAL
-#tvg-id=".id" tvg-name="" group-title="LOCAL" 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png", RCTI
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/rcti/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL", RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-id="MNC.id" tvg-name="MNCTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png", MNC
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/mnc/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL", MNCTV
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png", GTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/gtv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOCAL", GTV
+http://103.156.71.22:8000/play/a0d2/index.m3u8
+https://kusnadipepenk.github.io/campeign/global.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/gtv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOCAL", INEWS
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png", TRANS TV
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png", TRANS 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="LOCAL", KOMPAS TV
+https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 
 #EXTINF:-1 tvg-id="NETTV" tvg-name="NET TV" group-title="LOCAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg", NET TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,7 +121,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_s
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", Euro News TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png", Euro News TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 

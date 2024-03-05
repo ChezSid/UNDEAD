@@ -29,6 +29,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/gtv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png", TRANS 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="NETTV" tvg-name="NET TV" group-title="LOCAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg", NET TV

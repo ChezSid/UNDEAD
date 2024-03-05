@@ -2,14 +2,14 @@
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png", RCTI
-https://cdn09jtedge.indihometv.com/dassdvr/139/rcti/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/139/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNC.id" tvg-name="MNCTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png", MNC
 
-https://cdn09jtedge.indihometv.com/dassdvr/139/mnc/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/139/mnc/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png", GTV
-https://cdn09jtedge.indihometv.com/dassdvr/139/gtv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/139/gtv/manifest.mpd
 
 
 

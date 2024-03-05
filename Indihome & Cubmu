@@ -5,18 +5,34 @@
 #tvg-id=".id" tvg-name="" group-title="LOCAL" 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png", RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNC.id" tvg-name="MNCTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png", MNC
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/mnc/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png", GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/gtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png", TRANS TV
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png", TRANS 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="NETTV" tvg-name="NET TV" group-title="LOCAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg", NET TV
@@ -404,7 +420,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/axn/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/axn/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", MY CINEMA ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -412,7 +428,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/mycinemaasia/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", MY FAMILY CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -420,7 +436,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mycinemaasia/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/myfamily/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/myfamily/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", BLUE ENTERTAIMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -428,7 +444,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/myfamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/blueantextreme/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/blueantextreme/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", iKONSER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -444,7 +460,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/mykids/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", BOOMERANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -452,7 +468,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mykids/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/boomerang/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/boomerang/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", NICKLODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -460,7 +476,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/boomerang/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/nickelodeon/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickelodeon/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", DISCO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -468,7 +484,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nickelodeon/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/disco/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -476,7 +492,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/disco/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/fashiontv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/fashiontv/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -484,7 +500,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/fashiontv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/hgtv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", AFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -492,7 +508,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hgtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/afc/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MAw-zWiusVMn-KXBRkEQRGTa8Rp7LpsPlgaDpLgzRbgn8Tg61yxWcR2FvfjXYbiGCYk&usqp=CAU" group-title="INDIHOME", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36

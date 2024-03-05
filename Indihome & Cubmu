@@ -23,6 +23,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png", TRANS 7
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="LOCAL", KOMPAS TV

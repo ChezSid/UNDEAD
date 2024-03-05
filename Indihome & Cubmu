@@ -2,24 +2,13 @@
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png", RCTI
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn09jtedge.indihometv.com/dassdvr/139/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNC.id" tvg-name="MNCTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png", MNC
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+
 https://cdn09jtedge.indihometv.com/dassdvr/139/mnc/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="LOCAL" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png", GTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn09jtedge.indihometv.com/dassdvr/139/gtv/manifest.mpd
 
 

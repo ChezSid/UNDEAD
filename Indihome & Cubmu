@@ -129,7 +129,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_s
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png", SEA TODAY
-https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/seatoday/manifest.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/assets/1705631719_IDTV-88-WARNA-HD.png", IDTV
 https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
@@ -141,7 +141,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_france24_small.png?v=2.0.0.13", FRANCE 24
-https://cdn08jtedge.indihometv.com/dassdvr/139/france24/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/france24/manifest.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_cnnindonesia_ver1.png", CNN INDONESIA
 https://cdn08jtedge.indihometv.com/dassdvr/134/cnnindonesia/manifest.mpd
@@ -150,10 +150,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cnnindonesia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_bloomberg_small1.png?v=2.0.0.13", BLOOMBERG
-https://cdn08jtedge.indihometv.com/dassdvr/139/bloomberg/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/bloomberg/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", ALJAZEERA
-https://cdn08jtedge.indihometv.com/dassdvr/139/aljazeera/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/aljazeera/manifest.mpd
 
 
 

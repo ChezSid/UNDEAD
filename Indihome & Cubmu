@@ -119,11 +119,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="BeritaSatu.Id" tvg-name="Berita Satu" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BeritaSatu.png/250px-BeritaSatu.png", BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png", BTV
+https://cdn08jtedge.indihometv.com/dassdvr/134/beritasatu/manifest.mpd
+#https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="MetroGlobalNetwork.id" tvg-name="Metro Global Network" group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png", METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_sleng.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/metrotv/manifest.mpd
+#https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_sleng.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png", Euro News TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd

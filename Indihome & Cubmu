@@ -472,12 +472,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ikonser/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", HORIZON
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_horizonsport_ver2.png", HORIZON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", AXN

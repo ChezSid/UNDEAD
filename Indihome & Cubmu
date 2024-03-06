@@ -496,7 +496,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", MY FAMILY CINEMA
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_myfamily_ver2.png", MY FAMILY CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 

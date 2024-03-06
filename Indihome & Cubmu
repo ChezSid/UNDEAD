@@ -138,7 +138,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png", DW TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/dwtv/manifest.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_france24_small.png?v=2.0.0.13", FRANCE 24
 https://cdn08jtedge.indihometv.com/dassdvr/134/france24/manifest.mpd

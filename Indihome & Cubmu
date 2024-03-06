@@ -45,7 +45,7 @@ EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara" group-title="LOCAL" tvg-logo="htt
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/139/antara/manifest.mpd
 
-EXTINF:-1 group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_atv_small.png", ATV
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://images.indihometv.com/logo_atv_small.png", ATV
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest.mpd
 ##https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
@@ -586,6 +586,7 @@ https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
+
 
 
 

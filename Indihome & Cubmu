@@ -477,7 +477,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", AXN

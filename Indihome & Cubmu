@@ -69,7 +69,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib3/manifest.mpd
 #EXTINF:-1 tvg-id="EURONEWS - [Channel 333].id" group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png", EURONEWS.
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
-#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png", SEA TODAY
+#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" group-title="NEWS" tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png", SEA TODAY
 https://cdn08jtedge.indihometv.com/dassdvr/134/seatoday/manifest.mpd
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="NEWS" tvg-logo="https://images.indihometv.com/assets/1705631719_IDTV-88-WARNA-HD.png", IDTV

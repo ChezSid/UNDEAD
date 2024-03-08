@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml" billed-msg="RTM KLIK LIVE TV/RADIO | (https://rtmklik.rtm.gov.my/)"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" billed-msg="RTM KLIK LIVE TV/RADIO | (https://rtmklik.rtm.gov.my/)"
 
 
 ##### LIVE TV ######
@@ -25,10 +25,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK" tvg-logo="https://www.rtm.gov.my/asset/IconTv/dewanrakyatbaharu.jpg", DEWAN RAKYAT
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?id=7
 
-#EXTINF:-1 tvg-id="Dewan Negara" tvg-name="Dewan Negara" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/PDN_Trans.png", DEWAN NEGARA
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/PDN_Trans.png", DEWAN NEGARA
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b1096000_slENG.m3u8?id=8
 
-#EXTINF:-1 tvg-id="Bintang RTM" tvg-name="Bintang RTM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/brtm2024.jpg", BINTANG RTM
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/brtm2024.jpg", BINTANG RTM
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
 
 
@@ -63,7 +63,7 @@ https://22273.live.streamtheworld.com/KL_FMAAC.aac?dist=triton-widget&tdsdk=js-2
 #EXTINF:-1 tvg-id="Selangor FM" tvg-name="Selangor FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-selangor.c3b66db5.jpg", SELANGOR FM
 https://23733.live.streamtheworld.com/SELANGOR_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=4e981124-5b58-45de-af8d-ca98a763556d
 
-#EXTINF:-1 tvg-id=Sabah FM"" tvg-name="Sabah FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg", SABAHV FM
+#EXTINF:-1 tvg-id=Sabah FM" tvg-name="Sabah FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg", SABAHV FM
 https://23693.live.streamtheworld.com/SABAH_VFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7d168bfd-28cf-4e70-a42b-7e5527f03bb4
 
 #EXTINF:-1 tvg-id="Sarawak FM" tvg-name="Sarawak FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg", SARAWAK FM
@@ -145,4 +145,4 @@ https://23693.live.streamtheworld.com/TAWAU_FMAAC.aac?dist=triton-widget&tdsdk=j
 #EXTINF:-1 tvg-id="Keningau FM" tvg-name="Keningau FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RTM KLIK/RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-keningau.84553559.jpg", KENINGAU
 https://23733.live.streamtheworld.com/KENINGAU_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=d2246934-9f6f-4557-c558-ace50a3b61b8
 
-UPDATE ON 19/02/2024 by https://github.com/ChezSid
+UPDATE ON 08/03/2024 by https://github.com/ChezSid

@@ -134,6 +134,12 @@ https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.
 #KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
 https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
 
+#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-chno="447" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia (channel 447)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ |AU| AUSTRALIA ✦●✦" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",✦●✦ |AU| AUSTRALIA ✦●✦
+http://startv365.com:80/9794783213/6955630461/118198
+
 
 ####DEADLINK
 

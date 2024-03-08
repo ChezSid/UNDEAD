@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
 
 
 ### NATIONAL TV ID
@@ -80,7 +80,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-m.png", Bali TV
+#EXTINF:-1 tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-m.png", Bali TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -156,31 +156,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="AnhuiTV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="XingkongTV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", XingkongTV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", XingkongTV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="DragonTV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-m.png", Shanghai Dragon TV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-m.png", Shanghai Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HunanTV" tvg-url="https://bit.ly/JejeVisionEPG" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-m.png", HunanTV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-m.png", HunanTV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="JiangsuTV" tvg-url="https://bit.ly/JejeVisionEPG" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-m.png", JiangsuTV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-m.png", JiangsuTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -282,7 +282,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-m.png", TRT World
+#EXTINF:-1 tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-m.png", TRT World
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -375,7 +375,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Love Nature" group-title="KNOWDLEDGE" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-m.png", Love Nature
+#EXTINF:-1 tvg-id="Love Nature HD" group-title="KNOWDLEDGE" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-m.png", Love Nature
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -409,13 +409,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-m.png", nick jr
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-m.png", nick jr
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/006/50006-SNAPSHOT-m.png", Zoomoo
+#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/006/50006-SNAPSHOT-m.png", Zoomoo
 https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -567,7 +567,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png", Sportstars 1
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png", sportstars 1
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

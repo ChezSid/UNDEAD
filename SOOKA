@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" billed-msg="SOOKA | (https://sooka.my/en/)"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" billed-msg="SOOKA | (https://sooka.my/en/)"
 
 
 
@@ -82,27 +82,27 @@ https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kDHO+thTx4plwgIIIVMvPQ", "kid":"5VhM/9YVSROXuM3tXmecGQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSportPlus" tvg-name="Astro SuperSport Plus" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/fd08e21e3f8a47f292354c019f0f7b4d/version/0/width/315/height/177/quality/80", ASSP PLUS HD
+#EXTINF:-1 tvg-id="805.astro" tvg-name="Astro SuperSport Plus" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/fd08e21e3f8a47f292354c019f0f7b4d/version/0/width/315/height/177/quality/80", ASSP PLUS HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="Astro SuperSport" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/192435e242ee47cca085a7a310677dce/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/192435e242ee47cca085a7a310677dce/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="Astro SuperSport 2" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/62748465a2554dfaae32a9131c885f60/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 2  
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/62748465a2554dfaae32a9131c885f60/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 2  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="Astro SuperSport 3" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/91a7c64742434b9b933910905f0c33e2/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 3 
+#EXTINF:-1 tvg-id="813.astro" tvg-name="Astro SuperSport 3" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/91a7c64742434b9b933910905f0c33e2/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 3 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
 https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-name="Astro SuperSport 4" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f35b9cb2574b4a94bc0d8b6fd6475733/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="814.astro" tvg-name="Astro SuperSport 4" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f35b9cb2574b4a94bc0d8b6fd6475733/version/0/width/315/height/177/quality/80", ASTRO SUPERSPORT 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
 https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd

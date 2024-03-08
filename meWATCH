@@ -102,7 +102,9 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
+
 ###DAILY UPDATED/TESTING
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639651%27&EntityType=%27Item%27&EntityId=%27229211%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" ,meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -112,7 +114,29 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+##EXTINF:-1 tvg-id=""" group-title="TV SINGAPORE" tvg-logo="",MWAG1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
+https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
+
+##EXTINF:-1  tvg-id=""" group-title="TV SINGAPORE" tvg-logo="",MWAG3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2115349ba4d44a6aa9e19eeaab13e79f:c7fb6eac174c53dafe3d25c7562c0e6b
+https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
+
+##EXTINF:-1 tvg-id=""" group-title="TV SINGAPORE" tvg-logo="",MWAG5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f47b719efa4d4cd58e60815d8e9fec0e:252d44b5ee7d17dcbfb7d4ff74d23c5e
+https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd
+
+##EXTINF:-1 tvg-id=""" group-title="TV SINGAPORE" tvg-logo="",MWAG6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
+https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
+
+
 ####DEADLINK
+
 
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276404050%27&EntityType=%27Item%27&EntityId=%27195860%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", CINEMAWORLD
 http://210.210.155.37/dr9445/h/h04/index.m3u8

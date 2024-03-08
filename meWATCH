@@ -1,55 +1,55 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" billed-msg="meWATCH | (https://www.mewatch.sg/)"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://www.bevy.be/bevyfiles/singaporepremium.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" billed-msg="meWATCH | (https://www.mewatch.sg/)"
 
 
 
-#EXTINF:-1 tvg-id="Channel5" tvg-name="Channel 5" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/330px-Mediacorp_Channel_5_2023.svg.png", CHANNEL 5 
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", CHANNEL 5 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Channel8" tvg-name="Channel 8" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/330px-Mediacorp_Channel_8_2023.svg.png", CHANNEL 8
+#EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", CHANNEL 8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9I62dT89F3TaaClwyTzyYA", "kid":"JEj8VhsMQiCoHxAIlx0wiA" } ], "type":"temporary" }
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/300px-Mediacorp_Channel_U_2023.svg.png", CHANNEL U
+#EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", CHANNEL U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LMaeqqhY/tJMViNlTa+NPQ", "kid":"AyihU8KZSyeasDqyUQL8WQ" } ], "type":"temporary" }
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="ChannelSuria" tvg-name="Channel Suria" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/330px-Mediacorp_Suria_2023.svg.png", CHANNEL SURIA
+#EXTINF:-1 tvg-id="Suria HD" tvg-name="Suria HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", CHANNEL SURIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uTgBiLSJayXo1BnfzpOMbg", "kid":"ep6m31IESEGwxWJ2bmAmEA" } ], "type":"temporary" }
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:-1 tvg-id="ChannelVasantham" tvg-name="Channel Vasantham" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/330px-Mediacorp_Vasantham_2023.svg.png",CHANNEL VASANTHAM
+#EXTINF:-1 tvg-id="Vasantham HD" tvg-name="Vasantham HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",CHANNEL VASANTHAM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png", CNA
+#EXTINF:-1 tvg-id="Channel NewsAsia HD" tvg-name="Channel NewsAsia HD" group-title="meWATCH" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/220px-Mewatch_2023.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png", CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273708076%27&EntityType=%27Item%27&EntityId=%27239873%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ANIMAX
+#EXTINF:-1 tvg-id="Animax HD" tvg-name="Animax HD" group-title="meWATCH" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png", ANIMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="GEM" tvg-name="GEM" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273708078%27&EntityType=%27Item%27&EntityId=%27239874%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", GEM
+#EXTINF:-1 tvg-id="GEM HD" tvg-name="GEM HD" group-title="meWATCH" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png", GEM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -104,10 +104,10 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 ###DAILY UPDATED/TESTING
 
-#EXTINF:-1 tvg-id=""meWATCH 1" tvg-name="meWATCH 1" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639651%27&EntityType=%27Item%27&EntityId=%27229211%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" ,meWATCH LIVE 1
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639651%27&EntityType=%27Item%27&EntityId=%27229211%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" ,meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 tvg-id="meWATCH 2" tvg-name="meWATCH 2" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639647%27&EntityType=%27Item%27&EntityId=%27229212%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", meWATCH LIVE 2
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Local Programming" group-title="meWATCH" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639647%27&EntityType=%27Item%27&EntityId=%27229212%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", meWATCH LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
@@ -120,4 +120,4 @@ http://210.210.155.37/dr9445/h/h04/index.m3u8
 
 
 
-UPDATE ON 23/02/2024 by https://github.com/ChezSid
+UPDATE ON 08/03/2024 by https://github.com/ChezSid

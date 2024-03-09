@@ -153,7 +153,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-m.png", Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="32" tvg-name="Anhui Satellite TV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
@@ -162,7 +162,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="星空卫视" tvg-url="https://live.fanmingming.com/e.xml" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", Xingkong TV
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Xingkong TV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", Xingkong TV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

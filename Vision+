@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://xmltv.tvkaista.net/guides/visionplus.id.xml" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, http://epg.51zmt.top:8000/e.xml" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
 
 
 ### NATIONAL TV ID
@@ -156,31 +156,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="AnhuiTV.cn" tvg-name="AnhuiTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
+#EXTINF:-1 tvg-id="32" tvg-name="Anhui Satellite TV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="XingKongChina.cn" tvg-name="XingKongChina.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", Xingkong TV
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-url="https://live.fanmingming.com/e.xml" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", Xingkong TV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="DragonTV.cn" tvg-name="DragonTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-m.png", Shanghai Dragon TV
+#EXTINF:-1 tvg-id="31" tvg-name="Dragon TV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-m.png", Shanghai Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="tvg-id="HunanTV.cn" tvg-name="tvg-id="HunanTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-m.png", Hunan TV
+#EXTINF:-1 tvg-id="tvg-id="27" tvg-name="Hunan Satellite TV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-m.png", Hunan TV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="JiangsuTV.cn" tvg-name="JiangsuTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-m.png", Jiangsu TV
+#EXTINF:-1 tvg-id="29" tvg-name="Jiangsu Satellite TV" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-m.png", Jiangsu TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

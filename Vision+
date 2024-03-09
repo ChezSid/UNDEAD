@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://raw.githubusercontent.com/fanmingming/live/main/e.xml" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://xmltv.tvkaista.net/guides/visionplus.id.xml" refresh="1440" max-conn="1" refresh="24" billed msg="(VISION+ / https://www.visionplus.id/)
 
 
 ### NATIONAL TV ID
@@ -80,13 +80,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-m.png", Bali TV
+#EXTINF:-1 tvg-id="BaliTV.id" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-m.png", Bali TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Bandung TV" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png", BandungTV
+#EXTINF:-1 tvg-id="BandungTV.id" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png", Bandung TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 
@@ -156,31 +156,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
+#EXTINF:-1 tvg-id="AnhuiTV.cn" tvg-name="AnhuiTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-m.png", Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", Xingkong TV
+#EXTINF:-1 tvg-id="XingKongChina.cn" tvg-name="XingKongChina.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-m.png", Xingkong TV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-m.png", Shanghai Dragon TV
+#EXTINF:-1 tvg-id="DragonTV.cn" tvg-name="DragonTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-m.png", Shanghai Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="tvg-id="芒果综艺" tvg-name="tvg-id="芒果综艺" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-m.png", Hunan TV
+#EXTINF:-1 tvg-id="tvg-id="HunanTV.cn" tvg-name="tvg-id="HunanTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-m.png", Hunan TV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-m.png", Jiangsu TV
+#EXTINF:-1 tvg-id="JiangsuTV.cn" tvg-name="JiangsuTV.cn" group-title="ENTERTAINMENT" tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-m.png", Jiangsu TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -282,7 +282,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-m.png", TRT World
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-m.png", TRT World
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -293,7 +293,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJ
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="RTEnglish" group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/038/50038-SNAPSHOT-m.png", RT English
+#EXTINF:-1 tvg-id="RT.ru" group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/038/50038-SNAPSHOT-m.png", RT English
 https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -653,7 +653,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/940/49940-SNAPSHOT-m.png", tvMu
+#EXTINF:-1 tvg-id="TVMu.id" tvg-name="TVMu.id" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/940/49940-SNAPSHOT-m.png", tvMu
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -671,7 +671,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Reformed21" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-m.png", Reformed 21
+#EXTINF:-1 tvg-id="Reformed21" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-m.png", Reformed 21
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -683,7 +683,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="EWTN.id" group-title="RELIGION" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-m.png", EWTN
+#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" group-title="RELIGION" group-title="RELIGION" tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-m.png", EWTN
 https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 

@@ -4,10 +4,6 @@
 
 ### Malaysian Variety
 
-#EXTINF:-1 tvg-id="122.unifi" tvg-name="TVS" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png", TVS 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-https://web.hypp.tv:443/PLTV/88888888/224/3221227993/3221227993.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBaisWzRJlhAYoslLCShwOc7AIoh%2BB5OXcRjZ7j4JWmo4%2F3TvHxYuwzChlMWdufucavHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240114110148%3AUTC%2C1005926114%2C118.100.30.164%2C20240114110148%2Curn:Huawei:liveTV:XTV64822719%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HAhQsHjhpTExM3aTdvZpXeGIjLV2oJvvvt9V6mmRmvslMCSwe90bqQissHUqmpRZbXdrWzao2vADdSpLxt4pGEAshdIOvoluwn3p34YwyKgSnsiTNMncI4Ndm9ehbTIZ_sBrTs7NoXL7SJ2QK3if0MHVxoF8B_r5TWCsEm_UaL5kSRbFRSmtGpsVtIN_nhNwg72I_QkJ3iv4FmCuEjGQEewePFfRohkcIb-6c3PzmH5pssAr0AAAA&tenantId=6001
 
 #EXTINF:-1 tvg-id="103.unifi" tvg-name="TV3" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png", TV3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,9 +42,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hy
 https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
 
 #EXTINF:-1 tvg-id="118.unifi" tvg-name="Inspirasi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png", Inspirasiᴴᴰ
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=1900d0fd8dfd2357ca2685c66628bf07&key=9c105cc68caa9cf65315e06ef50860ab
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07&:9c105cc68caa9cf65315e06ef50860ab
+https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:-1 tvg-id="118.unifi" tvg-name="Inspirasi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png", Inspirasiᴴᴰ ² 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
 https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #EXTINF:-1 tvg-id="118.unifi" tvg-name="Inspirasi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png", Inspirasiᴴᴰ ²
@@ -274,6 +274,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227600/3221227600.mpd?rrsip=web.hy
 #EXTINF:-1 tvg-id="502" tvg-name="Love Nature HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature
 https://web.hypp.tv:443/PLTV/88888888/224/3221227672/3221227672.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=4Pd3If3CaK4zw4kWr57ckMpfD96x1aIR37lClUOmFpI%2BIEfDwdlXZfxnWWAYzE8mNAoFXaNj4WczE8FFdvVrxuhYDDyK9uPinyR5FubCVXjCv79soLL9JzF%2BsZxJwR1E%3A20230706072114%3AUTC%2C10001003677358%2C14.1.254.192%2C20230706072114%2Curn:Huawei:liveTV:XTV100002220%2C10001003677358%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000106830039%2C0%2C10000104551703%2C859461207%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1788&mag_hms=1788,1745,1687&mount=1000002&targetdev=1788&it=H4sIAAAAAAAAAzXMvQrCMBhG4bvJGPJTihkyKYJLEKqu8jb5GgKxwaQWvHup6H6es1R4Oh3s1PfCGAXfjaJTGsZraKG9oZ0BAlijpytWM4-c0xxdCRu7Dfu7FFxwpSTXkl223TEjWvUt3esxUrXyzwaqa_JkQ5v4isYRY6WIJZWZnzPe15p_yQcjYufGmQAAAA
 
+EXTINF:-1 tvg-id="122.unifi" tvg-name="TVS" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png", TVS 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://web.hypp.tv:443/PLTV/88888888/224/3221227993/3221227993.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBaisWzRJlhAYoslLCShwOc7AIoh%2BB5OXcRjZ7j4JWmo4%2F3TvHxYuwzChlMWdufucavHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240114110148%3AUTC%2C1005926114%2C118.100.30.164%2C20240114110148%2Curn:Huawei:liveTV:XTV64822719%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HAhQsHjhpTExM3aTdvZpXeGIjLV2oJvvvt9V6mmRmvslMCSwe90bqQissHUqmpRZbXdrWzao2vADdSpLxt4pGEAshdIOvoluwn3p34YwyKgSnsiTNMncI4Ndm9ehbTIZ_sBrTs7NoXL7SJ2QK3if0MHVxoF8B_r5TWCsEm_UaL5kSRbFRSmtGpsVtIN_nhNwg72I_QkJ3iv4FmCuEjGQEewePFfRohkcIb-6c3PzmH5pssAr0AAAA&tenantId=6001
 
 
 

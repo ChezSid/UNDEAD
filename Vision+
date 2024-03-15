@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml" billed msg="(ᵛᶦˢᶦᵒⁿ⁺ / https://www.visionplus.id)"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml" billed msg="(ᵛᶦˢᶦᵒⁿ⁺ / https://www.visionplus.id)"
 
 
 ### NATIONAL TV ID
@@ -356,7 +356,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-m.png", Outdoor CHANNEL
+#EXTINF:-1 tvg-id="OutdoorChannel" tvg-name="Outdoor" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-m.png", Outdoor CHANNEL
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

@@ -168,6 +168,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/nhkworld/manifest.mpd
 ### KIDS
 
 
+#EXTINF:-1 tvg-id="AniPlus.id" tvg-name="AniPlus" group-title="KIDS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="HOREE" tvg-name="HOREE" group-title="KIDS" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png", HOREE!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a

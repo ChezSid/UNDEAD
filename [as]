@@ -1,0 +1,71 @@
+#EXTM3U x-tvg-url=""
+### MARATHONS 24/7
+
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20230927/239271337318-rick-and-morty-season-7-posterimage.png", Adult Swim Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20231122/231122112428-ATHF-season-12-posterimage.png", Adult Swim Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-name="" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/vbSearch.jpg", Adult Swim The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20200901/20911252125-OffTheAir_PosterImage.png", Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20200527/205271331323-Metalocalypse_posterimage.jpg", Adult Swim Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20220721/227211724457-primal_posterimage.png", Adult Swim Primal
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20210903/21931316201-RCS11posterimage.png", Adult Swim Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20200527/205271334235-samurai_jack_poster.jpg", Adult Swim Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20230606/23661029443-TEASPoster.png", Adult Swim The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg", Adult Swim Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20200901/20911235495-Infomercials_PosterImage.png", Adult Swim Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20190912/199121118532-blackjesus3_posterimage.jpg", Adult Swim Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-name="" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/04/18/ypfS4_posterimage.jpg", Adult Swim Your Pretty Face Is Going To Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20220325/22325173185-ToonamiPoster.png", Toonami
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20200527/205271329138-HomeMovie_PosterImage.jpg", Adult Swim Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20191113/1911131710449-pickles.jpg", Adult Swim Mr. Pickles
+https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20211107/21117199487-SquidbilliesPoster.png", Adult Swim Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdn.adultswim.com/uploads/20200901/2091125444-SuperJail_PosterImage.png", Adult Swim Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", Adult Swim Daily Animated
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" tvg-logo="", Adult Swim Daily Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-name="" tvg-logo="", Adult Swim Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-name="" tvg-logo="", Adult Swim Last Stream On The Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", Adult Swim Tim and Eric
+https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8

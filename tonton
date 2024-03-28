@@ -14,7 +14,7 @@ https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV HD
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/2b872bf0-b2b8-4f21-af73-68ac66ca31e8/4.m3u8
+https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/a49bcade-4a06-4b62-bd03-56bebfb73bbd/4.m3u8
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV9
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
@@ -24,7 +24,7 @@ https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="Drama Sangat" group-title="TONTON" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DRAMA SANGAT
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/9ab3894f-22ab-4030-a6ea-74f20d1f6189/4.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton5_720p/hdntl=exp=1711726834~acl=%2f*~data=hdntl~hmac=440849f212872f0bf80b639325318936ad20a77cfbab7650d776d3cee9639d0d/index.m3u8
 
 
 #EXTM3U billed-msg="ᵗᵒⁿᵗᵒⁿ | [VER 28324] by CheZSiD"

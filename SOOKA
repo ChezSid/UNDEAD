@@ -22,13 +22,13 @@ https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" } ], "type":"temporary" }
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro QJ" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f0a992fdc7ee4d3fafc5bf828ba611f9/version/0/width/315/height/177/quality/80", QJᴴᴰ
+#EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro QJ" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f0a992fdc7ee4d3fafc5bf828ba611f9/version/0/width/315/height/177/quality/80", ASTRO QJ
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AiI5ZeM/e/HmwhJ4Bju1CA", "kid":"sOfb4l5sSfm1JeYU/EqmDA" } ], "type":"temporary" }
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-id="HITSNow" tvg-name="HITS Now" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/16b166815c1c4f4ab34b32d274af449d/version/0/width/315/height/177/quality/80", HITS NOWᴴᴰ
+#EXTINF:-1 tvg-id="HITSNow" tvg-name="HITS Now" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/16b166815c1c4f4ab34b32d274af449d/version/0/width/315/height/177/quality/80", HITS NOW
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
@@ -58,13 +58,13 @@ https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/907d5fce441e4fae90f3839d0522f868/version/0/width/315/height/177/quality/80", ARENA BOLAᴴᴰ
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/907d5fce441e4fae90f3839d0522f868/version/0/width/315/height/177/quality/80", ARENA BOLA
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/30f56f0250e843be9263422e38d57059/version/0/width/315/height/177/quality/80", ASTRO ARENA BOLA 2ᴴᴰ
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/30f56f0250e843be9263422e38d57059/version/0/width/315/height/177/quality/80", ASTRO ARENA BOLA 2
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
@@ -90,7 +90,7 @@ https://linear08-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus HD" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/323833b620844da3a8de4283290c1c09/version/0/width/315/height/177/quality/80", K+ᴴᴰ
+#EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus HD" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/323833b620844da3a8de4283290c1c09/version/0/width/315/height/177/quality/80", K-PLUSᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH5/masterCH5.mpd
@@ -124,13 +124,13 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
 https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/251ca39a5da748d29ab60e6e731d25b4/version/0/width/315/height/177/quality/80", SPOTVᴴᴰ
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/251ca39a5da748d29ab60e6e731d25b4/version/0/width/315/height/177/quality/80", SPOTV
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KsTvR0StICr8wuhz19w5Fg", "kid":"4r0pp0ZaSuSGp1ACMFgKbg" } ], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a60268b0e05949e3bc4ecba4a7833c9e/version/0/width/315/height/177/quality/80", SPOTV2ᴴᴰ
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a60268b0e05949e3bc4ecba4a7833c9e/version/0/width/315/height/177/quality/80", SPOTV 2
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZfiPZoUB9++nXCW+WY90Vg", "kid":"pXcYTtbGRWC+uHyW7nj3uA" } ], "type":"temporary" }
@@ -165,7 +165,7 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF:-1 tvg-id="W-Sport" tvg-name="W-Sport" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/15f6917d3b0f4e1c9d64e58bff38ad24/version/0/width/315/height/177/quality/80", W-Sport
+#EXTINF:-1 tvg-id="W-Sport" tvg-name="W-Sport" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/15f6917d3b0f4e1c9d64e58bff38ad24/version/0/width/315/height/177/quality/80", W-SPORT
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }

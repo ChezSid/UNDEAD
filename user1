@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://live.fanmingming.com/e.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://akkradet.github.io/IPTV-THAI/guide.xml,https://iptv36.vercel.app/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml," 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://akkradet.github.io/IPTV-THAI/guide.xml,https://iptv36.vercel.app/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/all/epg.xml," 
 
 
 #EXTM3U billed-msg="⚒️ build v15.5 2" 

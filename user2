@@ -37,11 +37,6 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania HD" group-logo="https://cdn.countryflags.com/thumbs/indonesia/flag-square-250.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png", 112 Astro Rania ᴴᴰ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
-
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png", 114 Al-Hijrah ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736

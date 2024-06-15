@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://steamuserimages-a.akamaihd.net/ugc/918039690677638880/A0E7202E247A22FDC544837FFE1AF291038EC955/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="300" src="https://i.ibb.co/K7PQRB4/ott-navigator.gif"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">I'm ChezSid<br><br>- ⚙️ I’m currently working on somenthing cool ...<br>- 👨‍💻 I'm currently learning basic coding ...<br>- 🖥️ Loves to learn something new ...</h6>
+<h6 align="left">I'm ChezSid<br><br>- ⚙️ I'm working on an IPTV playlist...<br>- 👨‍💻 I'm currently learning basic coding ...<br>- 🖥️ Loves to learn something new ...</h6>
 
 ###
 

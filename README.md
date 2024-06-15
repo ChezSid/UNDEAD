@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/K7PQRB4/ott-navigator.gif"  />
+  <img height="300" src="[https://i.ibb.co/K7PQRB4/ott-navigator.gif](https://ibb.co/HYSM1Rw)"  />
 </div>
 
 ###
